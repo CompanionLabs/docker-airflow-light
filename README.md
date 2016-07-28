@@ -1,4 +1,4 @@
-# docker-airflow
+# docker-airflow-light
 
 This repository contains **Dockerfile** of [airflow](https://github.com/apache/incubator-airflow) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/jbfavre/airflow-light/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
